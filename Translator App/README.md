@@ -1,4 +1,4 @@
-# Task 3 : Tranlator App
+# Task 3 : Translator App
 
 ## Libraries Used
 - tkinter
