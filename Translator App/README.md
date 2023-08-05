@@ -5,6 +5,6 @@
 - PIL
 - googletrans
 
-### I have to created a translator AI which translate between any two languages i.e. English and Hindi.
+### I have created a translator AI which translate between any two languages i.e. English and Hindi.
 
 ### I have Used only Jupyter notebook code.
