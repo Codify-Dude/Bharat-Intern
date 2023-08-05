@@ -1,11 +1,12 @@
-# Task 2 : Auto Correct Tool
+# Task 3 : Tranlator App
 
 ## Libraries Used
-- re
-- numpy
-- pandas
-- collections
+- tkinter
+- PIL
+- googletrans
 
-### In this task the AI must correct the word or give the word which is nearest to it.  
+### I have to created a translator AI which
+### translate between any two languages i.e. 
+### English and Hindi
 
 ### I have Used only Jupyter notebook code.
