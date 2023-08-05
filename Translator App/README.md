@@ -1,5 +1,4 @@
-# Task 2
-# Auto Correct Tool
+# Task 2 : Auto Correct Tool
 
 ## Libraries Used
 - re
